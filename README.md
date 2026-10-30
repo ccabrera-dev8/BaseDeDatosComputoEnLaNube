@@ -1,4 +1,4 @@
-#Base de datos para computo en la nube
+# Base de datos para computo en la nube
 
 Este repositorio contiene informacion relevante de base de datos NOSQL, especificamente
 en mongoDB y Base Datos Avanzadas, enfocado en Proceso ETL, Data Warehouse y Visualizaciones
